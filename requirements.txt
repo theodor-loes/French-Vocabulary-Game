@@ -1,0 +1,5 @@
+# Filer som trengs for å kjøre French Vocabulary Game
+# Hvis du bruker Python-pakker utover standardbiblioteket, legg dem her.
+
+difflib-null-wrapper
+python-Levenshtein
