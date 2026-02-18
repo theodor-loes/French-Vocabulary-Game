@@ -2,7 +2,8 @@
 
 Et simpelt, men effektivt gloseverktøy som kjører i terminalen.
 
-Det kombinerer enkel psykologi med tilgivende respons for å pugge franske gloser jeg har fra en bok.
+Det kombinerer enkel psykologi med tilgivende respons for å pugge franske gloser.
+Koden er ment for å hjelpe å lese fransk litteratur.
 
 ---
 
@@ -13,7 +14,7 @@ Språkprorgammer er ofte repetetive og langsomme.
 Dette prosjektet fokuserer på rask læring:
 - Du skriver ordene på fransk selv fra starten av
 - Når du klarer å skrive ordet riktig, forsvinner det fra videre terping
-- Det er raskt og enkelt å få en oversikt over 40-50 ord på 30 min
+- Det er raskt og enkelt å legge inn nye gloser fra bøker du leser
 
 Målet :
 - IKKE å lære ordene utenatt
@@ -21,7 +22,7 @@ Målet :
 - Gjenkjenne mange ord raskt
 - Få en oversikt over vokabularet i boka
 - Forstå ord godt nok - og lenge nok - til å henge med i handlingen
-- Føle mestring
+- (Derav også å føle på mestring)
 
 ---
 
